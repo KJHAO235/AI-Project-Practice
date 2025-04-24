@@ -1,1 +1,1 @@
-# AI-Project-Practice
+# 專案練習
